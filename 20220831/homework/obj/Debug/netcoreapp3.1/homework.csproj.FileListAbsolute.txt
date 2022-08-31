@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\18. 31-08-2022\20220831\homework\bin\Debug\netcoreapp3.1\homework.exe
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\18. 31-08-2022\20220831\homework\bin\Debug\netcoreapp3.1\homework.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\18. 31-08-2022\20220831\homework\bin\Debug\netcoreapp3.1\homework.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\18. 31-08-2022\20220831\homework\bin\Debug\netcoreapp3.1\homework.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\18. 31-08-2022\20220831\homework\bin\Debug\netcoreapp3.1\homework.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\18. 31-08-2022\20220831\homework\bin\Debug\netcoreapp3.1\homework.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\18. 31-08-2022\20220831\homework\obj\Debug\netcoreapp3.1\homework.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\18. 31-08-2022\20220831\homework\obj\Debug\netcoreapp3.1\homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\18. 31-08-2022\20220831\homework\obj\Debug\netcoreapp3.1\homework.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\18. 31-08-2022\20220831\homework\obj\Debug\netcoreapp3.1\homework.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\18. 31-08-2022\20220831\homework\obj\Debug\netcoreapp3.1\homework.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\18. 31-08-2022\20220831\homework\obj\Debug\netcoreapp3.1\homework.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\18. 31-08-2022\20220831\homework\obj\Debug\netcoreapp3.1\homework.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\18. 31-08-2022\20220831\homework\obj\Debug\netcoreapp3.1\homework.genruntimeconfig.cache
